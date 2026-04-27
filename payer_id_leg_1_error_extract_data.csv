@@ -1,9 +1,9 @@
 NB,H_BS,H_PRODUCT,HS_UPI,H_DVCS,TP_STATUS2,CANADA,CANADIAN_DERIVATIVE_STATUS,CLEARING_THRESHOLD_EXEEDED
-165843477,B,CURR_FXD_FXD,ForeignExchange:Forward,D                                                 ,LIVE,,,
-166160744,B,CURR_FXD_FXD,ForeignExchange:Forward,D                                                 ,LIVE,,,
-166160895,B,CURR_FXD_FXD,ForeignExchange:ComplexExotic,D                                                 ,MKT_OP,,,
-166781818,S,CURR_FXD_FXD,ForeignExchange:ComplexExotic,D                                                 ,LIVE,,,
-166883441,S,CURR_FXD_SWLEG,ForeignExchange:Forward,D                                                 ,LIVE,,,
-166893118,B,CURR_FXD_SWLEG,ForeignExchange:NDF,C                                                 ,LIVE,,,
-166893480,S,CURR_FXD_FXD,ForeignExchange:Forward,D                                                 ,LIVE,,,
-166893835,S,CURR_FXD_SWLEG,ForeignExchange:NDF,C                                                 ,LIVE,,,
+165843477,B,CURR_FXD_FXD,ForeignExchange:Forward,D                                                 ,LIVE,,Y,
+166160744,B,CURR_FXD_FXD,ForeignExchange:Forward,D                                                 ,LIVE,N,Y,
+166160895,B,CURR_FXD_FXD,ForeignExchange:ComplexExotic,D                                                 ,MKT_OP,Y,Y,
+166781818,S,CURR_FXD_FXD,ForeignExchange:ComplexExotic,D                                                 ,LIVE,Y,Y,
+166883441,S,CURR_FXD_SWLEG,ForeignExchange:Forward,D                                                 ,LIVE,N,N,Y
+166893118,B,CURR_FXD_SWLEG,ForeignExchange:NDF,C                                                 ,LIVE,N,N,Y
+166893480,S,CURR_FXD_FXD,ForeignExchange:Forward,D                                                 ,LIVE,,Y,
+166893835,S,CURR_FXD_SWLEG,ForeignExchange:NDF,C                                                 ,LIVE,,Y,
